@@ -1,0 +1,7 @@
+class User{
+
+    String login;
+    String firstName;
+    String lastName;
+
+}// write your class here

@@ -1,0 +1,13 @@
+# Project exclude paths
+/.gradle/
+/Coffee Machine/task/build/
+/Coffee Machine/task/out/
+/Coffee Machine/task/out/production/classes/
+/Problems (7)/Complex numbers/out/
+/Problems (7)/Complex numbers/out/production/classes/
+/Problems (8)/Collatz conjecture/out/
+/Problems (8)/Collatz conjecture/out/production/classes/
+/Problems (12)/The sum of elements/out/
+/Problems (12)/The sum of elements/out/production/classes/
+/Problems (13)/The (un)-ordered sequence/out/
+/Problems (13)/The (un)-ordered sequence/out/production/classes/
